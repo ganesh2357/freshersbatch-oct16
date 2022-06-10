@@ -43,14 +43,14 @@ public class Demo {
 //		}
 
 //		printing n numbers,even or odd num
-//		int count = 1;
-//		int x = 20;
-//		while (count <= x) {
-//			if (count % 2 != 0) {
-//				System.out.println(count);
-//			}
-//			count++;
-//		}
+		int count = 1;
+		int x = 20;
+		while (count <= x) {
+			if (count % 2 != 0) {
+				System.out.println(count);
+			}
+			count++;
+		}
 //		
 //		int n,m;
 //		for(n=0, m=0; n<10; n++, m+=2) {
